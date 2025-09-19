@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quang Huy</h1>
-<h3 align="center">A passionate fullstack developer from Viet Nam</h3>
+<h3 align="center">A wannabe AI developer from Viet Nam</h3>
 
 - 🔭 I’m currently working on **A real-time face recognition project**
 
